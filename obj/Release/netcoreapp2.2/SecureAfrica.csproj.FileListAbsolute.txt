@@ -1,0 +1,14 @@
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\bin\Release\netcoreapp2.2\SecureAfrica.deps.json
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\bin\Release\netcoreapp2.2\SecureAfrica.runtimeconfig.json
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\bin\Release\netcoreapp2.2\SecureAfrica.runtimeconfig.dev.json
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\bin\Release\netcoreapp2.2\SecureAfrica.dll
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\bin\Release\netcoreapp2.2\SecureAfrica.pdb
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\obj\Release\netcoreapp2.2\SecureAfrica.csprojAssemblyReference.cache
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\obj\Release\netcoreapp2.2\SecureAfrica.csproj.CoreCompileInputs.cache
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\obj\Release\netcoreapp2.2\SecureAfrica.RazorAssemblyInfo.cache
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\obj\Release\netcoreapp2.2\SecureAfrica.RazorAssemblyInfo.cs
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\obj\Release\netcoreapp2.2\SecureAfrica.AssemblyInfoInputs.cache
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\obj\Release\netcoreapp2.2\SecureAfrica.AssemblyInfo.cs
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\obj\Release\netcoreapp2.2\SecureAfrica.RazorTargetAssemblyInfo.cache
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\obj\Release\netcoreapp2.2\SecureAfrica.dll
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\obj\Release\netcoreapp2.2\SecureAfrica.pdb

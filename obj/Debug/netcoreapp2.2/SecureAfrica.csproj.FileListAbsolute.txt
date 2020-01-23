@@ -1,0 +1,70 @@
+D:\Africa\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.deps.json
+D:\Africa\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.runtimeconfig.json
+D:\Africa\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.runtimeconfig.dev.json
+D:\Africa\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.dll
+D:\Africa\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.csprojAssemblyReference.cache
+D:\Africa\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.csproj.CoreCompileInputs.cache
+D:\Africa\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.RazorAssemblyInfo.cache
+D:\Africa\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.RazorAssemblyInfo.cs
+D:\Africa\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.AssemblyInfoInputs.cache
+D:\Africa\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.AssemblyInfo.cs
+D:\Africa\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.RazorTargetAssemblyInfo.cache
+D:\Africa\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.pdb
+D:\Africa\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.dll
+D:\Africa\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.pdb
+D:\Practice Application\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.deps.json
+D:\Practice Application\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.runtimeconfig.json
+D:\Practice Application\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.runtimeconfig.dev.json
+D:\Practice Application\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.dll
+D:\Practice Application\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.pdb
+D:\Practice Application\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.csproj.CoreCompileInputs.cache
+D:\Practice Application\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.RazorAssemblyInfo.cache
+D:\Practice Application\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.RazorAssemblyInfo.cs
+D:\Practice Application\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.AssemblyInfoInputs.cache
+D:\Practice Application\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.AssemblyInfo.cs
+D:\Practice Application\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.RazorTargetAssemblyInfo.cache
+D:\Practice Application\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.dll
+D:\Practice Application\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.pdb
+D:\Practice Application\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.csprojAssemblyReference.cache
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.deps.json
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.runtimeconfig.json
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.runtimeconfig.dev.json
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.dll
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.pdb
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.csproj.CoreCompileInputs.cache
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.RazorAssemblyInfo.cache
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.RazorAssemblyInfo.cs
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.AssemblyInfoInputs.cache
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.AssemblyInfo.cs
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.RazorTargetAssemblyInfo.cache
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.dll
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.pdb
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.csprojAssemblyReference.cache
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\29aug\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.deps.json
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\29aug\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.runtimeconfig.json
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\29aug\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.runtimeconfig.dev.json
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\29aug\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.dll
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\29aug\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.pdb
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\29aug\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.csprojAssemblyReference.cache
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\29aug\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.csproj.CoreCompileInputs.cache
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\29aug\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.RazorAssemblyInfo.cache
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\29aug\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.RazorAssemblyInfo.cs
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\29aug\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.AssemblyInfoInputs.cache
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\29aug\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.AssemblyInfo.cs
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\29aug\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.RazorTargetAssemblyInfo.cache
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\29aug\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.dll
+C:\Users\nilesh\Desktop\My Work\Aug SecureIndia\29aug\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.pdb
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.deps.json
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.runtimeconfig.json
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.runtimeconfig.dev.json
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.dll
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\bin\Debug\netcoreapp2.2\SecureAfrica.pdb
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.csprojAssemblyReference.cache
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.csproj.CoreCompileInputs.cache
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.RazorAssemblyInfo.cache
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.RazorAssemblyInfo.cs
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.AssemblyInfoInputs.cache
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.AssemblyInfo.cs
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.RazorTargetAssemblyInfo.cache
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.dll
+C:\Users\nilesh\Desktop\My Work\sep 2019\SecureAfrica\SecureAfrica\obj\Debug\netcoreapp2.2\SecureAfrica.pdb
