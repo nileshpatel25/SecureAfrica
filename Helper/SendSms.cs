@@ -17,7 +17,7 @@ namespace SecureAfrica.Helper
                 string to, message;
                 to = _strMobile;
                 message = _Message;
-                string baseURL = "https://www.txtguru.in/imobile/api.php?username=secinverse&password=22783470&source=VSHUDH&dmobile=" + _strMobile + "&message=" + _Message + "";
+              
                 client.OpenRead(baseURL);
             }
         }
